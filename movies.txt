@@ -1,0 +1,8 @@
+rating:9.0
+verdict:Box Office Hit
+name:Pulp Fiction
+ranking:2
+ratings:9.3
+verdict:Box Office Failure
+name:The Shawshank Redemption
+ranking:1
